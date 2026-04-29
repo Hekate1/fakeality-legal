@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: April 14, 2026**
+**Last updated: April 29, 2026**
 
 This Privacy Policy describes how Fakeality ("we", "our", or "the app") collects, uses, and shares information when you use our iOS application.
 
@@ -39,7 +39,8 @@ We share limited information with the following third parties, only as necessary
 
 - **Apple**: Provides authentication via Sign in with Apple. Apple's privacy policy governs their handling of your information.
 - **Supabase**: Hosts our backend infrastructure (database, authentication, edge functions). Your account identifier and game state are stored on Supabase servers. See Supabase's privacy policy at https://supabase.com/privacy.
-- **Anthropic and OpenAI**: Powers the AI-generated story content. When the app generates dialogue or scene descriptions, the relevant game context (character state, recent choices, scene premise) is sent to Anthropic's and OpenAI's API. Your account identifier is not sent. See Anthropic's privacy policy at https://www.anthropic.com/legal/privacy and OpenAI's privacy policy at https://openai.com/policies/privacy-policy.
+- **OpenAI**: Powers the AI-generated story content. When the app generates dialogue or scene descriptions, the relevant game context (character state, recent choices, scene premise) is sent to OpenAI's API. Your account identifier is not sent. See OpenAI's privacy policy at https://openai.com/policies/privacy-policy.
+- **Anthropic**: Used for development and operational support. When investigating bugs or quality issues, server-side logs and diagnostic information — which may include game content and your account identifier — may be reviewed using Anthropic's Claude model. Anthropic does not power any in-app content generation. See Anthropic's privacy policy at https://www.anthropic.com/legal/privacy.
 
 We do not sell your information to anyone.
 
@@ -61,7 +62,7 @@ To exercise any of these rights, contact us at the email below.
 
 ## Children
 
-Fakeality is not intended for users under 17 years of age. The game contains mature themes, situations, and language appropriate for an adult audience. We do not knowingly collect information from children under 13.
+Fakeality is intended for users 17 years of age and older. The game may contain mature themes, situations, and language appropriate for an adult audience. We do not knowingly collect information from children under 13.
 
 ## Changes to This Policy
 
