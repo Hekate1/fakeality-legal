@@ -1,10 +1,8 @@
 # Privacy Policy
 
-**Last updated: April 29, 2026**
+**Last updated: June 30, 2026**
 
 This Privacy Policy describes how Fakeality ("we", "our", or "the app") collects, uses, and shares information when you use our iOS application.
-
-Fakeality is currently in beta. This policy applies to all beta and pre-release builds.
 
 ## Information We Collect
 
@@ -12,6 +10,7 @@ Fakeality is currently in beta. This policy applies to all beta and pre-release 
 
 - **Account identifier**: When you sign in with Sign in with Apple, Apple provides us with a unique identifier and (optionally) your name and email address. We do not see your real Apple ID or password.
 - **In-game choices and progress**: We store the choices you make in the game, your character's state, and your progress through episodes. This is required for the game to function and for your story to remain consistent across sessions.
+- **Purchase and credit records**: When you buy credits, we store the transaction identifier and your resulting credit balance so we can deliver what you paid for and prevent duplicate charges. Payment itself is processed by Apple — we never receive your card number or payment details.
 
 ### Information collected automatically
 
@@ -30,6 +29,7 @@ We use the information we collect to:
 
 - Authenticate your account and maintain your session
 - Generate, store, and retrieve your in-game story content
+- Deliver and keep an accurate record of the credits you purchase
 - Diagnose problems and improve the app
 - Communicate with you about important changes to the service (rare)
 
@@ -37,8 +37,8 @@ We use the information we collect to:
 
 We share limited information with the following third parties, only as necessary to provide the service:
 
-- **Apple**: Provides authentication via Sign in with Apple. Apple's privacy policy governs their handling of your information.
-- **Supabase**: Hosts our backend infrastructure (database, authentication, edge functions). Your account identifier and game state are stored on Supabase servers. See Supabase's privacy policy at https://supabase.com/privacy.
+- **Apple**: Provides authentication via Sign in with Apple and processes in-app purchases. Apple's privacy policy governs their handling of your information.
+- **Supabase**: Hosts our backend infrastructure (database, authentication, edge functions). Your account identifier, game state, and credit balance are stored on Supabase servers. See Supabase's privacy policy at https://supabase.com/privacy.
 - **OpenAI**: Powers the AI-generated story content. When the app generates dialogue or scene descriptions, the relevant game context (character state, recent choices, scene premise) is sent to OpenAI's API. Your account identifier is not sent. See OpenAI's privacy policy at https://openai.com/policies/privacy-policy.
 - **Anthropic**: Used for development and operational support. When investigating bugs or quality issues, server-side logs and diagnostic information — which may include game content and your account identifier — may be reviewed using Anthropic's Claude model. Anthropic does not power any in-app content generation. See Anthropic's privacy policy at https://www.anthropic.com/legal/privacy.
 
@@ -62,7 +62,7 @@ To exercise any of these rights, contact us at the email below.
 
 ## Children
 
-Fakeality is intended for users 17 years of age and older. The game may contain mature themes, situations, and language appropriate for an adult audience. We do not knowingly collect information from children under 13.
+Fakeality is intended for users 16 years of age and older. The game may contain mature themes, situations, and language appropriate for an older audience. We do not knowingly collect information from children under 13.
 
 ## Changes to This Policy
 
