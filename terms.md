@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated: June 30, 2026**
+**Last updated: July 3, 2026**
 
 These Terms of Service ("Terms") govern your access to and use of the Fakeality iOS application ("the app", "the service"). By using the app, you agree to these Terms. If you do not agree, do not use the app.
 
@@ -73,7 +73,7 @@ Our total liability for any claims arising from these Terms or the app shall not
 
 ## 11. Termination
 
-We may suspend or terminate your access to the app at any time, for any reason, including violation of these Terms. You may stop using the app at any time by deleting it from your device.
+We may suspend or terminate your access to the app at any time, for any reason, including violation of these Terms. You may stop using the app at any time by deleting it from your device, and you may delete your account entirely in the app (Settings → Delete Account).
 
 Upon termination, your account and associated data may be deleted. The provisions of these Terms that by their nature should survive termination (including intellectual property, disclaimers, and limitations of liability) will continue to apply.
 

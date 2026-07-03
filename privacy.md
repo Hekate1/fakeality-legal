@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: June 30, 2026**
+**Last updated: July 3, 2026**
 
 This Privacy Policy describes how Fakeality ("we", "our", or "the app") collects, uses, and shares information when you use our iOS application.
 
@@ -39,14 +39,14 @@ We share limited information with the following third parties, only as necessary
 
 - **Apple**: Provides authentication via Sign in with Apple and processes in-app purchases. Apple's privacy policy governs their handling of your information.
 - **Supabase**: Hosts our backend infrastructure (database, authentication, edge functions). Your account identifier, game state, and credit balance are stored on Supabase servers. See Supabase's privacy policy at https://supabase.com/privacy.
-- **OpenAI**: Powers the AI-generated story content. When the app generates dialogue or scene descriptions, the relevant game context (character state, recent choices, scene premise) is sent to OpenAI's API. Your account identifier is not sent. See OpenAI's privacy policy at https://openai.com/policies/privacy-policy.
+- **OpenAI**: Powers the AI-generated story content. When the app generates dialogue or scene descriptions, the relevant game context (character state, recent choices, scene premise, and any free-text actions or messages you type) is sent to OpenAI's API. Your account identifier is not sent. See OpenAI's privacy policy at https://openai.com/policies/privacy-policy.
 - **Anthropic**: Used for development and operational support. When investigating bugs or quality issues, server-side logs and diagnostic information — which may include game content and your account identifier — may be reviewed using Anthropic's Claude model. Anthropic does not power any in-app content generation. See Anthropic's privacy policy at https://www.anthropic.com/legal/privacy.
 
 We do not sell your information to anyone.
 
 ## Data Retention
 
-Your account and game state are retained as long as your account is active. If you delete your account or the app, you may request deletion of your data by contacting us at the email below.
+Your account and game state are retained as long as your account is active. You can delete your account and its associated data at any time directly in the app (Settings → Delete Account), or by contacting us at the email below. Records of purchases may be retained after account deletion where required for accounting, tax, or fraud-prevention purposes.
 
 API request logs are retained for up to 90 days for debugging purposes.
 
@@ -55,8 +55,8 @@ API request logs are retained for up to 90 days for debugging purposes.
 You can:
 
 - Sign out of the app at any time
+- Delete your account and associated data directly in the app (Settings → Delete Account)
 - Request a copy of the data we have associated with your account
-- Request deletion of your account and associated data
 
 To exercise any of these rights, contact us at the email below.
 

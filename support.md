@@ -1,6 +1,6 @@
 # Support
 
-**Last updated: June 30, 2026**
+**Last updated: July 3, 2026**
 
 Need help with Fakeality? You're in the right place. Check the common questions below, and for anything not covered, email us directly.
 
@@ -27,7 +27,7 @@ Credits are non-refundable and have no cash value. All purchases and refunds are
 
 ## Account and data
 
-You can sign out of the app at any time. To request a copy of the data associated with your account, or to delete your account and its data, email us at the address above. See our [Privacy Policy](privacy) for full details on what we store and how it's handled.
+You can sign out of the app at any time. To delete your account and its data, use **Settings → Delete Account** in the app — it takes effect immediately. To request a copy of the data associated with your account, email us at the address above. See our [Privacy Policy](privacy) for full details on what we store and how it's handled.
 
 ## Related
 
