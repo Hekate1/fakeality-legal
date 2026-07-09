@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated: July 3, 2026**
+**Last updated: July 9, 2026**
 
 These Terms of Service ("Terms") govern your access to and use of the Fakeality iOS application ("the app", "the service"). By using the app, you agree to these Terms. If you do not agree, do not use the app.
 
@@ -10,7 +10,7 @@ You must be at least 16 years old to use Fakeality. The app contains mature them
 
 ## 2. Account
 
-You authenticate with Sign in with Apple. You are responsible for maintaining the security of your Apple ID and for any activity that occurs through your account. You agree to notify us promptly of any unauthorized access.
+When you first use Fakeality, an account is created for you automatically — no registration is required. Your credits and story progress are tied to this account on your device. You may optionally sign in with Sign in with Apple to access your credits from your other devices; note that if you delete the app without signing in, your credits and progress may not be recoverable. You are responsible for maintaining the security of your Apple ID and for any activity that occurs through your account, and you agree to notify us promptly of any unauthorized access.
 
 ## 3. Service Availability
 
@@ -44,6 +44,8 @@ You agree not to:
 - Attempt to reverse-engineer, decompile, or extract source code from the app
 - Attempt to bypass authentication, rate limits, purchase verification, or other technical safeguards
 - Use the app to generate, distribute, or store harmful, illegal, or abusive content
+- Attempt to manipulate the AI systems into ignoring their content rules or producing content that violates these Terms, including through text you enter at choice points, in conversations with characters, or in custom-story fields
+- Enter personal information about other real people into the app's text fields
 - Interfere with or disrupt the service or its infrastructure
 - Share your account credentials or allow others to use your account
 
@@ -55,9 +57,11 @@ The Fakeality app, its design, code, art assets, story templates, and underlying
 
 Content generated during your gameplay session (your specific story, choices, and resulting dialogue) is provided to you for personal, non-commercial use within the app.
 
+You retain whatever rights you hold in text you enter into the app (custom actions, messages to characters, custom-story fields). By entering it, you grant us a license to store and process that text — including sending it to our AI providers — as needed to generate your story and operate the service.
+
 ## 8. Third-Party Services
 
-Fakeality uses third-party services to provide functionality, including Apple (authentication and payments), Supabase (backend infrastructure), and OpenAI/Anthropic (content generation). Your use of the app is also subject to the terms and privacy policies of these providers. We are not responsible for the practices or content of third-party services.
+Fakeality uses third-party services to provide functionality, including Apple (authentication and payments), Supabase (backend infrastructure), and AI services for content generation — OpenAI, Anthropic, and OpenRouter, a routing service that forwards generation requests to additional AI model providers and vetted hosting partners depending on the model in use. Your use of the app is also subject to the terms and privacy policies of these providers. We are not responsible for the practices or content of third-party services. See our [Privacy Policy](privacy) for details on what is shared with each provider.
 
 ## 9. Disclaimers
 
