@@ -39,7 +39,7 @@ We share limited information with the following third parties, only as necessary
 
 - **Apple**: Provides authentication via Sign in with Apple and processes in-app purchases. Apple's privacy policy governs their handling of your information.
 - **Supabase**: Hosts our backend infrastructure (database, authentication, edge functions). Your account identifier, game state, and credit balance are stored on Supabase servers. See Supabase's privacy policy at https://supabase.com/privacy.
-- **OpenAI**: Powers the AI-generated story content. When the app generates dialogue or scene descriptions, the relevant game context (character state, recent choices, scene premise, and any free-text actions or messages you type) is sent to OpenAI's API. Your account identifier is not sent. See OpenAI's privacy policy at https://openai.com/policies/privacy-policy.
+- **OpenAI**: Powers the AI-generated story content. When the app generates dialogue or scene descriptions, the relevant game context (character state, recent choices, scene premise, any messages you type in text exchanges with characters, and any text you enter when creating a custom story) is sent to OpenAI's API. Your account identifier is not sent. See OpenAI's privacy policy at https://openai.com/policies/privacy-policy.
 - **Anthropic**: Used for development and operational support. When investigating bugs or quality issues, server-side logs and diagnostic information — which may include game content and your account identifier — may be reviewed using Anthropic's Claude model. Anthropic does not power any in-app content generation. See Anthropic's privacy policy at https://www.anthropic.com/legal/privacy.
 
 We do not sell your information to anyone.
