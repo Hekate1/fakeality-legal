@@ -22,7 +22,8 @@ Fakeality uses credits to generate story content. Credits are sold as consumable
 
 - Credits are a limited license to use the app's generation features. They are not money, have no cash value, and are non-refundable except where required by law or by Apple's policies.
 - Generating original story content is not free. The large majority of what you pay for credits goes toward the third-party AI services (LLM tokens) that write your story; credits exist to cover that ongoing cost.
-- We may change credit prices, pack sizes, or the amount of content a given action costs. Changes apply to future purchases, not to credits you already hold.
+- We may change credit prices, pack sizes, or the number of credits a given action costs (for example, when the underlying AI model prices change). Pack price changes apply to future purchases only; changes to what an action costs take effect when made and apply to all generation from that point on, including generation paid for with credits you already hold.
+- Credits we grant for free (such as welcome credits or promotional bonuses) are not purchases and may carry additional limits, including expiration, which we will disclose when they apply.
 - Purchases and refunds are handled by Apple. To request a refund, visit https://reportaproblem.apple.com.
 
 ## 5. AI-Generated Content
