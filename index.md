@@ -1,7 +1,3 @@
-# Fakeality
-
-**_A story with no script._**
-
 Do anything, say anything — everyone reacts. The story is written as you play, so no two paths are alike and nobody knows how yours ends. And when you're ready, start a story of your own: your setting, your cast, your tone.
 
 <!-- APP STORE LINK: replace href when live -->

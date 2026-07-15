@@ -1,0 +1,39 @@
+---
+---
+
+// Palette from the app: icon sunset gradient (#FF9D6B -> #E1506E),
+// paper #EFE7D8, card #FDFCF8, charcoal #181A20.
+$header-heading-color: #181A20;
+$header-bg-color: #E1506E;
+$header-bg-color-secondary: #FF9D6B;
+$section-headings-color: #181A20;
+$body-text-color: #33363F;
+$body-link-color: #B93A57;
+$blockquote-text-color: #6B6E76;
+$hr-border-color: #E5DCC8;
+$table-border-color: #E5DCC8;
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #EFE7D8;
+}
+
+.page-header {
+  background-image: linear-gradient(#FF9D6B, #E1506E);
+}
+
+.page-header .project-tagline {
+  color: #181A20;
+  opacity: 0.85;
+}
+
+.main-content {
+  background-color: #FDFCF8;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+
+.site-footer {
+  display: none;
+}
