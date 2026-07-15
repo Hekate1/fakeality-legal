@@ -1,3 +1,5 @@
+[← Fakeality](./)
+
 # Terms of Service
 
 **Last updated: July 9, 2026**

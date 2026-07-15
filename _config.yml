@@ -1,3 +1,5 @@
-title: Fakeality Legal
-description: Privacy Policy and Terms of Service for Fakeality
+title: Fakeality
+description: A story with no script
 theme: jekyll-theme-cayman
+exclude:
+  - LANDING_PAGE_TASK.md

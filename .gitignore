@@ -1,0 +1,6 @@
+LANDING_PAGE_TASK.md
+.DS_Store
+_site/
+.jekyll-cache/
+Gemfile.lock
+vendor/

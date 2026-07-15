@@ -1,3 +1,5 @@
+[← Fakeality](./)
+
 # Support
 
 **Last updated: July 9, 2026**
